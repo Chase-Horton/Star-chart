@@ -1,0 +1,113 @@
+star1ID,star2ID,name,symbol
+67301,65378,Ursa Major,UMa
+65378,62956,Ursa Major,UMa
+62956,59774,Ursa Major,UMa
+58001,59774,Ursa Major,UMa
+54061,59774,Ursa Major,UMa
+53910,54061,Ursa Major,UMa
+58001,53910,Ursa Major,UMa
+
+67301,57399,Ursa Major,UMa
+57399,54539,Ursa Major,UMa
+54539,55219,Ursa Major,UMa
+55219,50801,Ursa Major,UMa
+50801,50372,Ursa Major,UMa
+50801,44471,Ursa Major,UMa
+44471,44127,Ursa Major,UMa
+44127,41704,Ursa Major,UMa
+41704,46733,Ursa Major,UMa
+46733,54061,Ursa Major,UMa
+46733,48319,Ursa Major,UMa
+48319,46853,Ursa Major,UMa
+46853,50372,Ursa Major,UMa
+
+11767,85822,Ursa Minor,UMi
+85822,82080,Ursa Minor,UMi
+77055,82080,Ursa Minor,UMi
+77055,72607,Ursa Minor,UMi
+75097,72607,Ursa Minor,UMi
+75097,79822,Ursa Minor,UMi
+77055,79822,Ursa Minor,UMi
+
+8886,6686,Cassiopeia,Cas
+6686,4427,Cassiopeia,Cas
+4427,3179,Cassiopeia,Cas
+3179,746,Cassiopeia,Cas
+
+56211,61281,Draco,Dra
+61281,68756,Draco,Dra
+68756,75458,Draco,Dra
+75458,78527,Draco,Dra
+78527,80331,Draco,Dra
+80331,83895,Draco,Dra
+83895,89908,Draco,Dra
+89908,89937,Draco,Dra
+89908,94376,Draco,Dra
+94376,97433,Draco,Dra
+94376,87585,Draco,Dra
+87585,85670,Draco,Dra
+87585,87833,Draco,Dra
+87833,85670,Draco,Dra
+
+23040,23522,Camelopardalis,Cam
+23522,22783,Camelopardalis,Cam
+23522,17884,Camelopardalis,Cam
+17884,16228,Camelopardalis,Cam
+17884,17959,Camelopardalis,Cam
+17959,22783,Camelopardalis,Cam
+22783,33694,Camelopardalis,Cam
+29997,33694,Camelopardalis,Cam
+
+112724,116727,Cepheus,Cep
+112724,106032,Cepheus,Cep
+112724,110991,Cepheus,Cep
+116727,106032,Cepheus,Cep
+106032,105199,Cepheus,Cep
+110991,109492,Cepheus,Cep
+109492,109857,Cepheus,Cep
+109857,107259,Cepheus,Cep
+107259,105199,Cepheus,Cep
+105199,102422,Cepheus,Cep
+102422,101093,Cepheus,Cep
+
+27366,26727,Orion,Ori
+26311,26727,Orion,Ori
+26311,25930,Orion,Ori
+25930,25281,Orion,Ori
+24436,25281,Orion,Ori
+26727,27989,Orion,Ori
+28614,27989,Orion,Ori
+28614,29038,Orion,Ori
+29426,29038,Orion,Ori
+27913,29038,Orion,Ori
+28716,29426,Orion,Ori
+28716,27913,Orion,Ori
+25813,25336,Orion,Ori
+25813,27989,Orion,Ori
+25813,26207,Orion,Ori
+22449,22549,Orion,Ori
+22509,22449,Orion,Ori
+22509,22845,Orion,Ori
+22957,22845,Orion,Ori
+22957,23607,Orion,Ori
+22549,22797,Orion,Ori
+23123,22797,Orion,Ori
+25336,25930,Orion,Ori
+25336,22449,Orion,Ori
+
+28734,29655,Gemini,Gem
+30343,29655,Gemini,Gem
+30343,32246,Gemini,Gem
+30883,32246,Gemini,Gem
+34693,32246,Gemini,Gem
+34693,33018,Gemini,Gem
+34693,36046,Gemini,Gem
+32362,35350,Gemini,Gem
+31681,34088,Gemini,Gem
+35550,35350,Gemini,Gem
+35550,34088,Gemini,Gem
+36962,35550,Gemini,Gem
+36962,36046,Gemini,Gem
+34693,36850,Gemini,Gem
+37740,36962,Gemini,Gem
+37826,36962,Gemini,Gem
